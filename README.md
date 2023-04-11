@@ -18,8 +18,8 @@ End the program.
 ### PROGRAM:
 ```
 Program to find distance between two points.
-Developed by : KAVINRAJA D
-Reference no : 22007928
+Developed by : surya sk 
+Reference no : 21222210005
 import math 
 l1 = [4,2]
 l2 = [10,6]
