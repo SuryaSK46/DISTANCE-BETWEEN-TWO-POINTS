@@ -28,7 +28,8 @@ print("{:.2f}".format(d))
 ```
   
 ### OUTPUT:
-![Screenshot 2023-04-11 092342](https://user-images.githubusercontent.com/127716537/231052364-475ae45a-69c2-4f1a-9801-080652e7f4ae.png)
+
+![Screenshot 2023-04-19 134156](https://user-images.githubusercontent.com/127716537/233011828-e53f4dfa-22af-4240-b76e-842b36df654e.png)
 
 
 ### RESULT:
